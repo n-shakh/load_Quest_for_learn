@@ -1,0 +1,10 @@
+
+# Ignore dynaconf secret files
+.secrets.*
+list_profi.txt
+buf_quest.txt
+analiz.txt
+chromedriver.exe
+db_quest.json
+list_web.json
+output.xlsx

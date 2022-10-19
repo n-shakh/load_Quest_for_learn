@@ -1,0 +1,5 @@
+site = 'https://free.edu.1c.ru/library.html'
+analiz_file = 'analiz.txt'
+buf_file = 'buf_quest.txt'
+db_file = 'db_quest.json'
+list_id = 'list_web.json'
